@@ -15,15 +15,6 @@ To understand the driving factors behind loan default for a Consumer Finance Com
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
-## Conclusions
-- Taking out larger loans, especially in the range of $15,000 to $35,000, makes it more likely that the borrower won't be able to repay.
-- Borrowing more money increases the risk of not being able to pay it back.
-- Loans for small businesses and renewable energy have a higher chance of not being repaid, maybe because these ventures come with more risks.
-- People with yearly incomes between $4,000 and $45,000 are more likely to struggle with repayments, showing a link between lower income and repayment difficulties.
-- If you don't own property, like a house, you're more likely to have trouble repaying a loan.
-
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
-
 ## Technologies Used
 - Pandas - version 2.0.3
 - NumPy - version 1.24.3
@@ -32,6 +23,15 @@ To understand the driving factors behind loan default for a Consumer Finance Com
 - Jupyter Notebook 6.5.4
 
 <!-- As the libraries' versions keep on changing, it is recommended to mention the version of the library used in this project -->
+
+<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
+
+## Conclusions
+- Taking out larger loans, especially in the range of $15,000 to $35,000, makes it more likely that the borrower won't be able to repay.
+- Borrowing more money increases the risk of not being able to pay it back.
+- Loans for small businesses and renewable energy have a higher chance of not being repaid, maybe because these ventures come with more risks.
+- People with yearly incomes between $4,000 and $45,000 are more likely to struggle with repayments, showing a link between lower income and repayment difficulties.
+- If you don't own property, like a house, you're more likely to have trouble repaying a loan.
 
 ## Acknowledgements
 - This project was tasked by UpGrad IITB Programme as a case study for the Machine Learning and Artificial Intelligence course.
